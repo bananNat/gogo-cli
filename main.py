@@ -11,7 +11,7 @@ import argparse
 
 # Get args
 usage = 'usage: %prog action [options]'
-description = 'Gophish cli. Use this tool to quickly setup a phishing campaign using your gophish infrastructure.'
+description = 'Funny Gophish CLI tool'
 parser = argparse.ArgumentParser(description=description)
 
 
